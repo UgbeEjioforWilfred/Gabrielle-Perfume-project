@@ -8,7 +8,6 @@ body{
 background-color: #e3e1de;
 display: flex;
 justify-content: center;
-font-family:'Montserrat', sans-serif;;
 align-items: center;
 min-height: 100vh;
 padding: 1.5rem;
@@ -66,13 +65,13 @@ color: hsl(228, 12%, 48%);
 color: hsl(158, 36%, 37%);
 font-weight: 800;
 font-size: 2rem;
+font-family:'Fraunces';
 
 }
 
 .old-price{
 text-decoration: line-through;
 font-size: small;
-font-family: 'Fraunces';
 }
 
 .Cart-icon{
